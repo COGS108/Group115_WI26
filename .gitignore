@@ -166,6 +166,7 @@ cython_debug/
 # if for some reason you want to source code control your data you will need to remove this
 data/*.csv
 data/*/*.csv
+!data/02-processed/Historical_RAM_Pricing_Cleaned.csv
 data/*.CSV
 data/*/*.CSV
 data/*.json
